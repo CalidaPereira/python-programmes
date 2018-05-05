@@ -1,5 +1,6 @@
 import random
 
+ #Random no. generation between 1 and 6
 def rand():
     for i in range(1):
         print(random.randint(1,7))
